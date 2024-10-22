@@ -1,10 +1,10 @@
-import NavBar from "@components/NavBar";
+import Home from "@pages/Home";
 
 function App() {
 
   return (
-   <div className="bg-gray-700">
-    <NavBar/>
+   <div>
+    <Home/>
    </div>
   )
 }
